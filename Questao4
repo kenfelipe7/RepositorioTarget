@@ -1,1 +1,12 @@
 aproximadamente no km 57  eles se encontram
+carro = 0(quilometro 0) + 110km/h . tempo
+caminhao =100(quilometro 100 + 80km/h.tempo
+carro = caminhao
+110.t=100-80.t
+t=100/190
+t=0,526
+
+qual  km o carro estará nesse tempo t será o tempo onde o  caminhao estará
+carro =  110.t
+carro = 57,89
+
